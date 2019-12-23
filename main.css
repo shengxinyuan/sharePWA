@@ -1,0 +1,52 @@
+
+body {
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica Neue;
+    font-weight: 200;
+    background-color: #335433;
+    background-image: radial-gradient(ellipse farthest-corner at 45px 45px ,
+                        hsla(0,50%,100%,0.32) 0%,
+                        hsla(0,50%,80%,0.16) 60%,
+                        hsla(0,50%,80%,0) 95%);
+    color: #ccc;
+}
+
+.main-text {
+    width: 90%;
+    line-height: 2;
+    margin: 20px auto 150px auto;
+}
+
+.img1 {
+    width: 50%;
+}
+
+.img2 {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.revision {
+    font-weight: 200;
+    position: fixed;
+    top: 32px;
+    left: 32px;
+}
+
+strong{
+    color: #e8a100;
+}
+
+.network-message {
+    padding: 20px;
+    font-size: 60px;
+    font-weight: 200;
+    width: 80%;
+    margin: 0 auto;
+    text-align: right;
+}
