@@ -1,5 +1,5 @@
 
-Minimal PWA
+PWA demo
 ----
 
 > Very simple code to demonstrate Progressive Web Apps.
